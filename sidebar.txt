@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mot:home|Door43 (mot)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mot|d43-mot repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mot/archive/master.zip|d43-mot.zip]]
+
+**Recent Changes**
+{{changes>ns = mot}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mot|Ethnologue data]]
+
